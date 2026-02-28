@@ -1,0 +1,5 @@
+{
+  "name": "MobiFix",
+  "description": "AI-powered mobile software problem solver with support for English, Tamil, and Hindi. Upload images, record voice, or type your problem for step-by-step solutions.",
+  "requestFramePermissions": ["microphone"]
+}
